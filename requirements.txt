@@ -1,0 +1,8 @@
+langchain
+langgraph
+google-auth
+gspread
+openai
+python-dotenv
+#smtplib
+email-validator
